@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm Xilai Liu, a fourth-year PhD student at ICT, CAS, coadvised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and [Prof. Tong Yang](https://yangtonghome.github.io/). Before ICT, I was an undergrate at Peking University, where I received my B.Eng. degree in Computer Science and B.S. degree in Psychology. My research interests include programmable network and data sketches.
+Hello! I'm Xilai Liu, a fourth-year PhD student at ICT, CAS, coadvised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and [Prof. Tong Yang](https://yangtonghome.github.io/). Before ICT, I was an undergrate at Peking University, where I received my B.Eng. degree in Computer Science and B.S. degree in Psychology. My research interests include programmable network and data sketches. (I love the game Genshin Impact and its character Ganyu.)
 
 Publications
 ======
