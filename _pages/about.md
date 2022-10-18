@@ -28,13 +28,11 @@ Xiangyang Gou, Long He, Yinda Zhang, Ke Wang, **Xilai Liu**, Tong Yang, Yi Wang 
 In *Proc. of SIGKDD*, 2020 <br>
 [\[Paper PDF\]](https://yangtonghome.github.io/uploads/SlidingSketches_kdd2020.pdf) <br>
 
-[**A Generic Technique for Sketches to Adapt to Different Counting Ranges.**]
-(https://ieeexplore.ieee.org/abstract/document/8737531) <br>
+[**A Generic Technique for Sketches to Adapt to Different Counting Ranges.**](https://ieeexplore.ieee.org/abstract/document/8737531) <br>
 Tong Yang, Jiaqi Xu, **Xilai Liu**, Peng Liu, Lun Wang, Jun Bi, Xiaoming Li <br>
 In *Proc. of InfoComm*, 2019 <br>
 [\[Paper PDF\]](https://yangtonghome.github.io/uploads/A_Generic_Technique_for_Sketches_to_Adapt_to_Different_Counting_Ranges.pdf) <br>
 
-[**Elastic_HH: Tailored Elastic for Finding Heavy Hitters.**]
-(https://arxiv.org/abs/1909.02203) <br>
+[**Elastic_HH: Tailored Elastic for Finding Heavy Hitters.**](https://arxiv.org/abs/1909.02203) <br>
 **Xilai Liu**, Bingqing Liu, Tong Yang, Gaogang Xie <br>
 
