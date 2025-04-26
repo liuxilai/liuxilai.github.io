@@ -9,10 +9,25 @@ redirect_from:
 ---
 
 
-Hello! I'm Xilai Liu, a fourth-year PhD student at ICT, CAS, coadvised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and [Prof. Tong Yang](https://yangtonghome.github.io/). I also work closely with [Prof. Heng Pan](https://panheng.github.io/). Before ICT, I was an undergrate at Peking University, where I received my B.Eng. degree in Computer Science and B.S. degree in Psychology. My research interests include programmable network and data sketches. (I love the game Genshin Impact and its character Ganyu.)
+Hello! I'm Xilai Liu, now work as Researcher on AI network system at 2012 Lab, Huawei since Dec, 2024. I received my PhD degree in Computer Science from ICT, CAS, coadvised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and [Prof. Tong Yang](https://yangtonghome.github.io/). Before ICT, I was an undergrate at Peking University, where I received my B.Eng. degree in Computer Science and B.S. degree in Psychology. My research interests include network measurement, data sketches and programmable data plane.
 
 Publications
+
 ======
+[**NPC: Rethinking Dataplane through Network-aware Packet Classification**](https://liuxilai.github.io/) <br>
+Xinyi Zhang, Qianrui Qiu, Zhiyuan Xu, Peng He, **Xilai Liu**, Kavé Salamatian, Changhua Pei, Gaogang Xie <br>
+To appear in ACM SIGCOMM, 2025 <br>
+
+[**Lemon: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement**](https://liuxilai.github.io/) <br>
+Wenhao Wu, Zhenyu Li, **Xilai Liu**, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie <br>
+To appear in USENIX SECURITY, 2025 <br>
+
+[**2FA Sketch: Two-Factor Armor Sketch for Accurate and Efficient Heavy Hitter Detection in Data Streams**](https://liuxilai.github.io/) <br>
+**Xilai Liu**, Xinyi Zhang, Bingqing Liu, Tao Li, Tong Yang, Gaogang Xie <br>
+
+[**Approaching 100% Confidence in Stream Summary through ReliableSketch**](https://liuxilai.github.io/) <br>
+Yuhan Wu, Hanbo Wu, **Xilai Liu**, Yikai Zhao, Tong Yang, Kaicheng Yang, Sha Wang, Lihua Miao, Gaogang Xie <br>
+
 [**A Sketch Framework for Approximate Data Stream Processing in Sliding Windows**](https://ieeexplore.ieee.org/document/9713710/) <br>
 Xiangyang Gou, Yinda Zhang, Zhoujing Hu, Long He, Ke Wang, **Xilai Liu**, Tong Yang, Yi Wang and Bin Cui <br>
 In *IEEE TKDE*, 2022 <br>
@@ -32,7 +47,4 @@ In *Proc. of SIGKDD*, 2020 <br>
 Tong Yang, Jiaqi Xu, **Xilai Liu**, Peng Liu, Lun Wang, Jun Bi, Xiaoming Li <br>
 In *Proc. of InfoComm*, 2019 <br>
 [\[Paper PDF\]](https://yangtonghome.github.io/uploads/A_Generic_Technique_for_Sketches_to_Adapt_to_Different_Counting_Ranges.pdf) <br>
-
-[**Elastic_HH: Tailored Elastic for Finding Heavy Hitters.**](https://arxiv.org/abs/1909.02203) <br>
-**Xilai Liu**, Bingqing Liu, Tong Yang, Gaogang Xie <br>
 
