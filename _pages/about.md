@@ -23,9 +23,12 @@ To appear in USENIX SECURITY, 2025 <br>
 
 [**2FA Sketch: Two-Factor Armor Sketch for Accurate and Efficient Heavy Hitter Detection in Data Streams**](https://liuxilai.github.io/) <br>
 **Xilai Liu**, Xinyi Zhang, Bingqing Liu, Tao Li, Tong Yang, Gaogang Xie <br>
+In IFIP NPC, 2024 <br>
 
 [**Approaching 100% Confidence in Stream Summary through ReliableSketch**](https://liuxilai.github.io/) <br>
 Yuhan Wu, Hanbo Wu, **Xilai Liu**, Yikai Zhao, Tong Yang, Kaicheng Yang, Sha Wang, Lihua Miao, Gaogang Xie <br>
+In Arxiv, 2024 <br>
+[\[Paper PDF\]](https://arxiv.org/abs/2406.00376) 
 
 [**A Sketch Framework for Approximate Data Stream Processing in Sliding Windows**](https://ieeexplore.ieee.org/document/9713710/) <br>
 Xiangyang Gou, Yinda Zhang, Zhoujing Hu, Long He, Ke Wang, **Xilai Liu**, Tong Yang, Yi Wang and Bin Cui <br>
