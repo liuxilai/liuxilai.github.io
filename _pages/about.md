@@ -12,7 +12,6 @@ redirect_from:
 Hello! I'm Xilai Liu, now work as Researcher on AI network system at 2012 Lab, Huawei since Dec, 2024. I received my PhD degree in Computer Science from ICT, CAS, coadvised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie?language=en) and [Prof. Tong Yang](https://yangtonghome.github.io/). Before ICT, I was an undergrate at Peking University, where I received my B.Eng. degree in Computer Science and B.S. degree in Psychology. My research interests include network measurement, data sketches and programmable data plane.
 
 Publications
-
 ======
 [**NPC: Rethinking Dataplane through Network-aware Packet Classification**](https://liuxilai.github.io/) <br>
 Xinyi Zhang, Qianrui Qiu, Zhiyuan Xu, Peng He, **Xilai Liu**, Kavé Salamatian, Changhua Pei, Gaogang Xie <br>
