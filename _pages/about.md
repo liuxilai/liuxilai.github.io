@@ -13,22 +13,27 @@ Hello! I'm Xilai Liu, now work as Researcher on AI network system at 2012 Lab, H
 
 Publications
 ======
-[**NPC: Rethinking Dataplane through Network-aware Packet Classification**](https://liuxilai.github.io/) <br>
-Xinyi Zhang, Qianrui Qiu, Zhiyuan Xu, Peng He, **Xilai Liu**, Kavé Salamatian, Changhua Pei, Gaogang Xie <br>
-To appear in ACM SIGCOMM, 2025 <br>
+[**Approaching 100% Confidence in Stream Summary through ReliableSketch**](https://liuxilai.github.io/) <br>
+Yuhan Wu, Hanbo Wu, **Xilai Liu**, Yikai Zhao, Tong Yang, Kaicheng Yang, Sha Wang, Lihua Miao, Gaogang Xie <br>
+To appear in ACM IMC, 2025 <br>
+[\[Paper PDF\]](https://arxiv.org/abs/2406.00376) 
 
-[**Lemon: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement**](https://liuxilai.github.io/) <br>
+[**NPC: Rethinking Dataplane through Network-aware Packet Classification**](https://dl.acm.org/doi/abs/10.1145/3718958.3750511/) <br>
+Xinyi Zhang, Qianrui Qiu, Zhiyuan Xu, Peng He, **Xilai Liu**, Kavé Salamatian, Changhua Pei, Gaogang Xie <br>
+In ACM SIGCOMM, 2025 <br>
+
+[**Lemon: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement**](https://dl.acm.org/doi/10.5555/3766078.3766262/) <br>
 Wenhao Wu, Zhenyu Li, **Xilai Liu**, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie <br>
-To appear in USENIX SECURITY, 2025 <br>
+In USENIX SECURITY, 2025 <br>
+
+[**ResidualSketch: Enhancing Layer Efficiency and Error Reduction in Hierarchical Heavy Hitter Detection with ResNet Innovations**](https://liuxilai.github.io/) <br>
+**Xilai Liu**, Yuxuan Tian, Xiangyuan Wang, Yuhan Wu, Wenhao Wu, Tong Yang, Gaogang Xie <br>
+In Arxiv <br>
+[\[Paper PDF\]](https://arxiv.org/abs/2505.12445)
 
 [**2FA Sketch: Two-Factor Armor Sketch for Accurate and Efficient Heavy Hitter Detection in Data Streams**](https://liuxilai.github.io/) <br>
 **Xilai Liu**, Xinyi Zhang, Bingqing Liu, Tao Li, Tong Yang, Gaogang Xie <br>
 In IFIP NPC, 2024 <br>
-
-[**Approaching 100% Confidence in Stream Summary through ReliableSketch**](https://liuxilai.github.io/) <br>
-Yuhan Wu, Hanbo Wu, **Xilai Liu**, Yikai Zhao, Tong Yang, Kaicheng Yang, Sha Wang, Lihua Miao, Gaogang Xie <br>
-In Arxiv, 2024 <br>
-[\[Paper PDF\]](https://arxiv.org/abs/2406.00376) 
 
 [**A Sketch Framework for Approximate Data Stream Processing in Sliding Windows**](https://ieeexplore.ieee.org/document/9713710/) <br>
 Xiangyang Gou, Yinda Zhang, Zhoujing Hu, Long He, Ke Wang, **Xilai Liu**, Tong Yang, Yi Wang and Bin Cui <br>
